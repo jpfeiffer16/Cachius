@@ -1,0 +1,14 @@
+{
+  "name": "cachy",
+  "version": "0.1.0",
+  "description": "A simple generic caching library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "Joe Pfeiffer",
+  "license": "ISC"
+}
