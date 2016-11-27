@@ -1,5 +1,5 @@
 {
-  "name": "cachy",
+  "name": "cachius",
   "version": "0.1.0",
   "description": "A simple generic caching library",
   "main": "index.js",
